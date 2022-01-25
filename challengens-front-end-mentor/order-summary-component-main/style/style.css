@@ -1,0 +1,140 @@
+body{
+    background: hsl(225, 100%, 94%);
+    text-align: center;
+}
+
+#img_background{
+    display: block;
+    position: absolute;
+    top:0px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+main{
+    display: inline-block;
+    position: relative;
+    margin: 10% auto 5px;
+    background: white;
+    font-family: 'Red hat display';
+    width: 400px;
+    max-width: 90%;
+    border-radius: 20px;
+}
+
+.hero{
+    display: inline-block;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.titulo{
+    font-size: 2em;
+    font-weight:bold;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main > p{
+    font-size: 16px;
+    padding: 10px 10%;
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+    max-width: 450px;
+}
+
+.plano{
+    background: hsl(225, 100%, 98%);
+    margin: 20px 5%;
+    padding: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+    width: 90%;
+}
+
+.nota-musical{
+    display: inline-block;
+    margin: 0 2%;
+}
+
+section{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 0 0 0;
+    margin: 0 6% 0 0;
+}
+
+.subtitulo{
+    display: block;
+    font-weight: bold;
+}
+
+section p{
+    display: inline-block;
+    margin-top: 5px;
+    color: hsl(224, 23%, 55%);
+}
+
+.plano > p{
+    display: inline-block;
+    position: relative;
+    padding: 20px 0 0 0;
+    margin: 0 2% 0 5%;
+    font-weight: bold;
+    vertical-align: top;
+    
+}
+
+.plano a{
+    color: #382AE1;
+}
+
+.plano a:hover{
+    text-decoration: none;
+    color: #766CF1;
+}
+
+.botao-comprar{
+    display: block;
+    margin: 0 auto;
+    background: #382AE1;
+    border-radius: 10px; 
+    border-style: none;
+    box-shadow: 1px 15px 10px rgba(163, 160, 242, 0.5);
+    font-weight: bold;
+    width: 90%;
+}
+
+.botao-comprar> a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+
+.botao-comprar:hover{
+    background: #766CF1;
+}
+
+.botao-cancelar{
+    display: block;
+    margin: 10px auto;
+    background: none;
+    border: none;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.botao-cancelar > a{
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+}
+
+.botao-cancelar > a:hover{
+    color: #000;
+}
+
+
+
