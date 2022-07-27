@@ -1,6 +1,16 @@
-# Hi, I’m @DiegoBarrosDev
+# Olá, eu sou @DiegoBarrosDev <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png" width=30>
 
-👀 I’m programming student, currently learning HTML, CSS, JavaScript and React.
+### 😎 Perfil
+
+Estudante de Engenharia de Software pela Universidade Estácio de Sá, profissional dedicado, curioso e apaixonado por aprender coisas novas, formado em Direito pela UNICAP, está em buscando uma recolocação profissional na área de tecnologia, sua verdadeira vocação.
+
+### 🧠 Habilidades:
++ HTML
++ CSS
++ Bootstrap
++ JavaScript
++ TypeScript
++ React (em formação)
 
 ### 📫 How to reach me:
 - https://www.linkedin.com/in/diego-barros-420b97a2/
