@@ -12,7 +12,7 @@ Estudante de Engenharia de Software pela Universidade Estácio de Sá, profissio
 + TypeScript
 + React (em formação)
 
-### 📫 How to reach me:
+### 📫 Como me encontrar:
 - https://www.linkedin.com/in/diego-barros-420b97a2/
 - https://www.facebook.com/diego.barros.583
 - https://twitter.com/Diegobarros
