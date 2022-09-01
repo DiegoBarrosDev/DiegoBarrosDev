@@ -12,6 +12,8 @@ Estudante de Engenharia de Software pela Universidade Estácio de Sá, profissio
 + TypeScript
 + React (em formação)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobarrosdev)](https://github.com/diegobarrosdev/github-readme-stats)
+
 ### 📫 Como me encontrar:
 - https://www.linkedin.com/in/diego-barros-420b97a2/
 - https://www.facebook.com/diego.barros.583
