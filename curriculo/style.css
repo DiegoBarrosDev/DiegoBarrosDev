@@ -1,0 +1,81 @@
+/* 
+#346176 - azul
+#49a0a2 - verde
+#ebe9ea - cinza
+*/
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cabecalho {
+    background: #ebe9ea;
+    color: #49a0a2;
+    text-align: center;
+    padding: 0.5cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo-curriculo{
+    font-size: 2rem;
+}
+
+.titulo-nome{
+    font-size: 3rem;
+}
+
+.titulo {
+    font-size: 1.5rem;
+    margin-bottom: 0.4cm;
+    font-weight: bold;
+}
+
+.container{
+    display: flex;
+}
+
+p, li{
+    line-height: 1.2rem;
+    margin-bottom: 0.2cm;
+}
+.secaoLateral {
+    background: #346176;
+    color: #ebe9ea;
+    width: 40%;
+    padding: 0.2cm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secaoLateral .titulo {
+    color: #ffffff;
+}
+
+.principal {
+    padding: 0.2cm;
+    padding-bottom: 3.6cm;
+
+}
+
+.principal .titulo {
+    color: #346176;
+    border-bottom: 2px solid #49a0a2;
+}
+
+.principal li {
+    margin-bottom: 0.5cm;
+}
+
+.topico {
+    margin-bottom: 0.5cm;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.rodape{
+    background: #ebe9ea;
+    margin: 0;
+    padding: 0.2cm;
+    text-align: right;
+}
