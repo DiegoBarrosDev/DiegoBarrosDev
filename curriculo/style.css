@@ -41,7 +41,7 @@ p, li{
     background: #346176;
     color: #ebe9ea;
     width: 40%;
-    padding: 0.2cm;
+    padding: 0.3cm;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -49,10 +49,12 @@ p, li{
     color: #ffffff;
 }
 
-.principal {
-    padding: 0.2cm;
-    padding-bottom: 3.6cm;
+.secaoLateral a {
+    color: #ebe9ea;
+}
 
+.principal {
+    padding: 0.3cm;
 }
 
 .principal .titulo {
@@ -78,4 +80,8 @@ a{
     margin: 0;
     padding: 0.2cm;
     text-align: right;
+}
+
+.rodape p {
+    margin-bottom: 0.2px;
 }
