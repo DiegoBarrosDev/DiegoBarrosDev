@@ -10,7 +10,8 @@ Estudante de Engenharia de Software pela Universidade Estácio de Sá, profissio
 + Bootstrap
 + JavaScript
 + TypeScript
-+ React (em formação)
++ React
++ Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobarrosdev)](https://github.com/diegobarrosdev/github-readme-stats)
 
