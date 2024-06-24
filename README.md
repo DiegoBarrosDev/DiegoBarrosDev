@@ -1,8 +1,8 @@
-# Olá, eu sou @DiegoBarrosDev <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png" width=30>
+# Olá, eu sou @DiegoBarrosDev 
 
 ### 😎 Perfil
 
-Estudante de Ciência da Computação pela Universidade Federal do Ceará, profissional dedicado, curioso e apaixonado por aprender coisas novas, formado em Direito pela UNICAP, está em buscando uma recolocação profissional na área de tecnologia, sua verdadeira vocação.
+Estudante de Ciência da Computação pela Universidade Federal do Ceará, profissional dedicado, curioso e apaixonado por aprender coisas novas, formado em Direito pela UNICAP, atualmente estou estudando ciência de dados com Python e análise de dados com Power BI.
 
 ### 🧠 Habilidades:
 + HTML
@@ -17,9 +17,8 @@ Estudante de Ciência da Computação pela Universidade Federal do Ceará, profi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobarrosdev)](https://github.com/diegobarrosdev/github-readme-stats)
 
 ### 📫 Como me encontrar:
-- https://www.linkedin.com/in/diego-barros-420b97a2/
-- https://www.facebook.com/diego.barros.583
-- https://twitter.com/Diegobarros
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobarrosdev/)   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diego.barros.583) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/Diegobarros)
+
 
 <!---
 DiegoBarrosDev/DiegoBarrosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
