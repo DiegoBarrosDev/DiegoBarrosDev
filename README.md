@@ -17,7 +17,7 @@ Estudante de Ciência da Computação pela Universidade Federal do Ceará, profi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobarrosdev)](https://github.com/diegobarrosdev/github-readme-stats)
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobarrosdev/)   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diego.barros.583) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/Diegobarros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobarrosdev/)  
 
 
 <!---
