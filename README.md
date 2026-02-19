@@ -14,7 +14,7 @@ Estudante de Ciência da Computação pela Universidade Federal do Ceará, profi
 + Python
 + C
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobarrosdev)](https://github.com/diegobarrosdev/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegobarrosdev&theme=github_dark)
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegobarrosdev/)  
